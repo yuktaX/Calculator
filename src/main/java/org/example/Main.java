@@ -12,7 +12,7 @@ public class Main {
         Scanner myObj = new Scanner(System.in);
 
         //testing deployment-BJDSLJIBFLSIBF
-        //FFS sbfrkgbrgehgblrgirjen
+        //FF
 
         while(true) {
             System.out.println("||---Welcome to Calculator---||");
