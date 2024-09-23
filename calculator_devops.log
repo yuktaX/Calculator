@@ -56,3 +56,5 @@
 2024-09-23 15:59:39.221 [main] INFO  org.example.Main - START OP: Natural Logarithm
 2024-09-23 15:59:39.221 [main] INFO  org.example.Main - END OP: Natural Logarithm
 2024-09-23 15:59:42.980 [main] INFO  org.example.Main - End of Execution
+2024-09-23 18:16:42.035 [main] INFO  org.example.Main - Start of Execution
+2024-09-23 18:16:52.762 [main] INFO  org.example.Main - End of Execution
