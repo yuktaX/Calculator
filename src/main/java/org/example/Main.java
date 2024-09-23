@@ -39,7 +39,8 @@ public class Main {
             System.out.println("Enter the operand (x):");
             double x = myObj.nextDouble();
 
-            System.out.println("Result: ");
+            if(choice != 4)
+                System.out.println("Result: ");
 
             switch (choice) {
                 case 1:
@@ -53,6 +54,7 @@ public class Main {
                     break;
                 case 4:
                     System.out.println("Enter second operand (y):");
+                    System.out.println("Result: ");
                     double y = myObj.nextDouble();
                     System.out.println(power(x, y));
                     break;
