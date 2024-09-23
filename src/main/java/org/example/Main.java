@@ -11,6 +11,8 @@ public class Main {
         logger.info("Start of Execution");
         Scanner myObj = new Scanner(System.in);
 
+        //testing deployment
+
         while(true) {
             System.out.println("||---Welcome to Calculator---||");
             System.out.println("Choose your operation");
