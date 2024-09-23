@@ -1,0 +1,48 @@
+2024-09-22 19:48:01.358 [main] INFO  org.example.Main - Start of Execution
+2024-09-22 19:48:48.308 [main] INFO  org.example.Main - Start of Execution
+2024-09-22 19:48:59.615 [main] INFO  org.example.Main - START OP: Add
+2024-09-22 19:48:59.616 [main] INFO  org.example.Main - END OP: Add
+2024-09-22 19:49:03.793 [main] INFO  org.example.Main - End of Execution
+2024-09-22 19:49:14.900 [main] INFO  org.example.Main - Start of Execution
+2024-09-22 19:50:20.986 [main] INFO  org.example.Main - Start of Execution
+2024-09-22 19:50:22.762 [main] WARN  org.example.Main - Incorrect Input
+2024-09-22 19:50:53.386 [main] INFO  org.example.Main - Start of Execution
+2024-09-22 19:50:57.015 [main] WARN  org.example.Main - Incorrect Input
+2024-09-22 22:05:46.858 [main] INFO  org.example.Main - START OP: Add
+2024-09-22 22:05:46.859 [main] INFO  org.example.Main - END OP: Add
+2024-09-22 22:05:46.860 [main] INFO  org.example.Main - START OP: Div
+2024-09-22 22:05:46.860 [main] INFO  org.example.Main - END OP: Div
+2024-09-22 22:05:46.860 [main] INFO  org.example.Main - START OP: Div
+2024-09-22 22:05:46.860 [main] INFO  org.example.Main - END OP: Div
+2024-09-22 22:05:46.861 [main] INFO  org.example.Main - START OP: Sub
+2024-09-22 22:05:46.861 [main] INFO  org.example.Main - END OP: Sub
+2024-09-22 22:05:46.861 [main] INFO  org.example.Main - START OP: Sub
+2024-09-22 22:05:46.861 [main] INFO  org.example.Main - END OP: Sub
+2024-09-22 22:05:46.861 [main] INFO  org.example.Main - START OP: Mul
+2024-09-22 22:05:46.861 [main] INFO  org.example.Main - END OP: Mul
+2024-09-22 22:05:46.861 [main] INFO  org.example.Main - START OP: Mul
+2024-09-22 22:05:46.862 [main] INFO  org.example.Main - END OP: Mul
+2024-09-22 22:05:46.862 [main] INFO  org.example.Main - START OP: Add
+2024-09-22 22:05:46.862 [main] INFO  org.example.Main - END OP: Add
+2024-09-23 13:41:13.765 [main] INFO  org.example.Main - START OP: Power
+2024-09-23 13:41:13.767 [main] INFO  org.example.Main - END OP: Power
+2024-09-23 13:41:13.768 [main] INFO  org.example.Main - START OP: Factorial
+2024-09-23 13:41:13.768 [main] INFO  org.example.Main - END OP: Factorial
+2024-09-23 13:41:13.768 [main] INFO  org.example.Main - START OP: Power
+2024-09-23 13:41:13.768 [main] INFO  org.example.Main - END OP: Power
+2024-09-23 13:41:13.769 [main] INFO  org.example.Main - START OP: Square Root
+2024-09-23 13:41:13.769 [main] WARN  org.example.Main - Invalid Input: Negative value
+2024-09-23 13:41:13.770 [main] INFO  org.example.Main - START OP: Natural Logarithm
+2024-09-23 13:41:13.770 [main] WARN  org.example.Main - Invalid Input: Non-positive value
+2024-09-23 13:41:13.770 [main] INFO  org.example.Main - START OP: Factorial
+2024-09-23 13:41:13.770 [main] WARN  org.example.Main - Invalid Input: Negative value
+2024-09-23 13:41:13.771 [main] INFO  org.example.Main - START OP: Natural Logarithm
+2024-09-23 13:41:13.771 [main] WARN  org.example.Main - Invalid Input: Non-positive value
+2024-09-23 13:41:13.771 [main] INFO  org.example.Main - START OP: Natural Logarithm
+2024-09-23 13:41:13.771 [main] INFO  org.example.Main - END OP: Natural Logarithm
+2024-09-23 13:41:13.771 [main] INFO  org.example.Main - START OP: Power
+2024-09-23 13:41:13.771 [main] INFO  org.example.Main - END OP: Power
+2024-09-23 13:41:13.772 [main] INFO  org.example.Main - START OP: Factorial
+2024-09-23 13:41:13.772 [main] INFO  org.example.Main - END OP: Factorial
+2024-09-23 13:41:13.772 [main] INFO  org.example.Main - START OP: Square Root
+2024-09-23 13:41:13.772 [main] INFO  org.example.Main - END OP: Square Root
