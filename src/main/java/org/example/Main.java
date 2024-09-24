@@ -12,6 +12,14 @@ public class Main {
         Scanner myObj = new Scanner(System.in);
 
         //testing deployment-commit
+        System.out.println("||---Welcome to Calculator---||");
+        System.out.println("Choose your operation");
+
+        System.out.println("1. Square Root (√x)");
+        System.out.println("2. Factorial (x!)");
+        System.out.println("3. Natural Logarithm (ln(x))");
+        System.out.println("4. Power (x^y)");
+        System.out.println("5. Exit\n");
 
         while(true) {
             System.out.println("||---Welcome to Calculator---||");
