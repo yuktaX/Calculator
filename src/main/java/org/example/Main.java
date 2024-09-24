@@ -11,8 +11,7 @@ public class Main {
         logger.info("Start of Execution");
         Scanner myObj = new Scanner(System.in);
 
-        //testing deployment-BJDSLJIBFLSIBF
-        //FFplsplp
+        //testing deployment-commit
 
         while(true) {
             System.out.println("||---Welcome to Calculator---||");
