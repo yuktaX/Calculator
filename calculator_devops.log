@@ -58,3 +58,25 @@
 2024-09-23 15:59:42.980 [main] INFO  org.example.Main - End of Execution
 2024-09-23 18:16:42.035 [main] INFO  org.example.Main - Start of Execution
 2024-09-23 18:16:52.762 [main] INFO  org.example.Main - End of Execution
+2024-09-24 00:34:42.871 [main] INFO  org.example.Main - START OP: Power
+2024-09-24 00:34:42.872 [main] INFO  org.example.Main - END OP: Power
+2024-09-24 00:34:42.873 [main] INFO  org.example.Main - START OP: Factorial
+2024-09-24 00:34:42.873 [main] INFO  org.example.Main - END OP: Factorial
+2024-09-24 00:34:42.874 [main] INFO  org.example.Main - START OP: Power
+2024-09-24 00:34:42.874 [main] INFO  org.example.Main - END OP: Power
+2024-09-24 00:34:42.874 [main] INFO  org.example.Main - START OP: Square Root
+2024-09-24 00:34:42.874 [main] WARN  org.example.Main - Invalid Input: Negative value
+2024-09-24 00:34:42.875 [main] INFO  org.example.Main - START OP: Natural Logarithm
+2024-09-24 00:34:42.875 [main] WARN  org.example.Main - Invalid Input: Non-positive value
+2024-09-24 00:34:42.875 [main] INFO  org.example.Main - START OP: Factorial
+2024-09-24 00:34:42.875 [main] WARN  org.example.Main - Invalid Input: Negative value
+2024-09-24 00:34:42.875 [main] INFO  org.example.Main - START OP: Natural Logarithm
+2024-09-24 00:34:42.875 [main] WARN  org.example.Main - Invalid Input: Non-positive value
+2024-09-24 00:34:42.876 [main] INFO  org.example.Main - START OP: Natural Logarithm
+2024-09-24 00:34:42.876 [main] INFO  org.example.Main - END OP: Natural Logarithm
+2024-09-24 00:34:42.876 [main] INFO  org.example.Main - START OP: Power
+2024-09-24 00:34:42.876 [main] INFO  org.example.Main - END OP: Power
+2024-09-24 00:34:42.876 [main] INFO  org.example.Main - START OP: Factorial
+2024-09-24 00:34:42.876 [main] INFO  org.example.Main - END OP: Factorial
+2024-09-24 00:34:42.876 [main] INFO  org.example.Main - START OP: Square Root
+2024-09-24 00:34:42.877 [main] INFO  org.example.Main - END OP: Square Root
