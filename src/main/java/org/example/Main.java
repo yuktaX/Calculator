@@ -25,6 +25,7 @@ public class Main {
             //to fix input/output buffer
             System.out.flush();
 
+            System.out.print("Enter your choice: ");
             int choice = myObj.nextInt();
 
             if (choice > 5 || choice <= 0) {
@@ -42,7 +43,7 @@ public class Main {
             double x = myObj.nextDouble();
 
             if(choice != 4)
-                System.out.println("Result: ");
+                System.out.print("Result: ");
 
             switch (choice) {
                 case 1:
@@ -56,8 +57,8 @@ public class Main {
                     break;
                 case 4:
                     System.out.println("Enter second operand (y):");
-                    System.out.println("Result: ");
                     double y = myObj.nextDouble();
+                    System.out.print("Result: ");
                     System.out.println(power(x, y));
                     break;
             }

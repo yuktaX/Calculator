@@ -80,3 +80,6 @@
 2024-09-24 00:34:42.876 [main] INFO  org.example.Main - END OP: Factorial
 2024-09-24 00:34:42.876 [main] INFO  org.example.Main - START OP: Square Root
 2024-09-24 00:34:42.877 [main] INFO  org.example.Main - END OP: Square Root
+2024-09-24 11:48:52.445 [main] INFO  org.example.Main - Start of Execution
+2024-09-24 11:49:01.502 [main] INFO  org.example.Main - START OP: Power
+2024-09-24 11:49:01.502 [main] INFO  org.example.Main - END OP: Power
