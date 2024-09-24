@@ -29,6 +29,7 @@ public class Main {
             int choice = myObj.nextInt();
 
             if (choice > 5 || choice <= 0) {
+                System.out.flush();
                 logger.warn("Incorrect Input");
                 continue;
             }
@@ -62,6 +63,8 @@ public class Main {
                     System.out.println(power(x, y));
                     break;
             }
+
+            System.out.println();
         }
     }
 

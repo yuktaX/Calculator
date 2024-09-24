@@ -83,3 +83,7 @@
 2024-09-24 11:48:52.445 [main] INFO  org.example.Main - Start of Execution
 2024-09-24 11:49:01.502 [main] INFO  org.example.Main - START OP: Power
 2024-09-24 11:49:01.502 [main] INFO  org.example.Main - END OP: Power
+2024-09-24 12:06:18.718 [main] INFO  org.example.Main - Start of Execution
+2024-09-24 12:06:30.039 [main] INFO  org.example.Main - START OP: Natural Logarithm
+2024-09-24 12:06:30.039 [main] INFO  org.example.Main - END OP: Natural Logarithm
+2024-09-24 12:06:36.923 [main] INFO  org.example.Main - End of Execution
